@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "full_name": "Joan García",
+    "shirt_number": 13,
+    "market_value": "35 M€",
+    "birth_date": "04/05/2001",
+    "position": "portero"
+  },
+  {
+    "id": 2,
+    "full_name": "Wojciech Szczęsny",
+    "shirt_number": 25,
+    "market_value": "1 M€",
+    "birth_date": "18/04/1990",
+    "position": "portero"
+  },
+  {
+    "id": 3,
+    "full_name": "Diego Kochen",
+    "shirt_number": 31,
+    "market_value": "5 M€",
+    "birth_date": "19/03/2006",
+    "position": "portero"
+  },
+  {
+    "id": 4,
+    "full_name": "Eder Aller",
+    "shirt_number": 33,
+    "market_value": "1 M€",
+    "birth_date": "04/04/2007",
+    "position": "portero"
+  },
+  {
+    "id": 5,
+    "full_name": "Áron Yaakobishvili",
+    "shirt_number": 40,
+    "market_value": "1 M€",
+    "birth_date": "06/03/2006",
+    "position": "portero"
+  },
+  {
+    "id": 6,
+    "full_name": "João Cancelo",
+    "shirt_number": 2,
+    "market_value": "10 M€",
+    "birth_date": "27/05/1994",
+    "position": "defensa"
+  },
+  {
+    "id": 7,
+    "full_name": "Alejandro Balde",
+    "shirt_number": 3,
+    "market_value": "60 M€",
+    "birth_date": "18/10/2003",
+    "position": "defensa"
+  },
+  {
+    "id": 8,
+    "full_name": "Ronald Araújo",
+    "shirt_number": 4,
+    "market_value": "70 M€",
+    "birth_date": "07/03/1999",
+    "position": "defensa"
+  },
+  {
+    "id": 9,
+    "full_name": "Pau Cubarsí",
+    "shirt_number": 5,
+    "market_value": "80 M€",
+    "birth_date": "22/01/2007",
+    "position": "defensa"
+  },
+  {
+    "id": 10,
+    "full_name": "Andreas Christensen",
+    "shirt_number": 15,
+    "market_value": "10 M€",
+    "birth_date": "10/04/1996",
+    "position": "defensa"
+  },
+  {
+    "id": 11,
+    "full_name": "Gerard Martín",
+    "shirt_number": 18,
+    "market_value": "20 M€",
+    "birth_date": "26/02/2002",
+    "position": "defensa"
+  },
+  {
+    "id": 12,
+    "full_name": "Jules Koundé",
+    "shirt_number": 23,
+    "market_value": "65 M€",
+    "birth_date": "12/11/1998",
+    "position": "defensa"
+  },
+  {
+    "id": 13,
+    "full_name": "Eric García",
+    "shirt_number": 24,
+    "market_value": "25 M€",
+    "birth_date": "09/01/2001",
+    "position": "defensa"
+  },
+  {
+    "id": 14,
+    "full_name": "Jofre Torrents",
+    "shirt_number": 26,
+    "market_value": "3 M€",
+    "birth_date": "15/03/2006",
+    "position": "defensa"
+  },
+  {
+    "id": 15,
+    "full_name": "Xavi Espart",
+    "shirt_number": 42,
+    "market_value": "2 M€",
+    "birth_date": "21/05/2007",
+    "position": "defensa"
+  },
+  {
+    "id": 16,
+    "full_name": "Álvaro Cortés",
+    "shirt_number": 36,
+    "market_value": "3 M€",
+    "birth_date": "17/03/2005",
+    "position": "defensa"
+  },
+  {
+    "id": 17,
+    "full_name": "Pedri",
+    "shirt_number": 8,
+    "market_value": "140 M€",
+    "birth_date": "25/11/2002",
+    "position": "mediocampista"
+  },
+  {
+    "id": 18,
+    "full_name": "Frenkie de Jong",
+    "shirt_number": 21,
+    "market_value": "45 M€",
+    "birth_date": "12/05/1997",
+    "position": "mediocampista"
+  },
+  {
+    "id": 19,
+    "full_name": "Gavi",
+    "shirt_number": 6,
+    "market_value": "40 M€",
+    "birth_date": "05/08/2004",
+    "position": "mediocampista"
+  },
+  {
+    "id": 20,
+    "full_name": "Fermín López",
+    "shirt_number": 16,
+    "market_value": "70 M€",
+    "birth_date": "11/05/2003",
+    "position": "mediocampista"
+  },
+  {
+    "id": 21,
+    "full_name": "Dani Olmo",
+    "shirt_number": 20,
+    "market_value": "60 M€",
+    "birth_date": "07/05/1998",
+    "position": "mediocampista"
+  },
+  {
+    "id": 22,
+    "full_name": "Marc Casadó",
+    "shirt_number": 17,
+    "market_value": "25 M€",
+    "birth_date": "14/09/2003",
+    "position": "mediocampista"
+  },
+  {
+    "id": 23,
+    "full_name": "Marc Bernal",
+    "shirt_number": 22,
+    "market_value": "10 M€",
+    "birth_date": "26/05/2007",
+    "position": "mediocampista"
+  },
+  {
+    "id": 24,
+    "full_name": "Tommy Marqués",
+    "shirt_number": 43,
+    "market_value": "3 M€",
+    "birth_date": "30/10/2006",
+    "position": "mediocampista"
+  },
+  {
+    "id": 25,
+    "full_name": "Guille Fernández",
+    "shirt_number": 30,
+    "market_value": "5 M€",
+    "birth_date": "18/06/2008",
+    "position": "mediocampista"
+  },
+  {
+    "id": 26,
+    "full_name": "Juan Hernández",
+    "shirt_number": 41,
+    "market_value": "3 M€",
+    "birth_date": "21/07/2007",
+    "position": "mediocampista"
+  },
+  {
+    "id": 27,
+    "full_name": "Lamine Yamal",
+    "shirt_number": 10,
+    "market_value": "200 M€",
+    "birth_date": "13/07/2007",
+    "position": "delantero"
+  },
+  {
+    "id": 28,
+    "full_name": "Raphinha",
+    "shirt_number": 11,
+    "market_value": "60 M€",
+    "birth_date": "14/12/1996",
+    "position": "delantero"
+  },
+  {
+    "id": 29,
+    "full_name": "Ferran Torres",
+    "shirt_number": 7,
+    "market_value": "40 M€",
+    "birth_date": "29/02/2000",
+    "position": "delantero"
+  },
+  {
+    "id": 30,
+    "full_name": "Robert Lewandowski",
+    "shirt_number": 9,
+    "market_value": "15 M€",
+    "birth_date": "21/08/1988",
+    "position": "delantero"
+  },
+  {
+    "id": 31,
+    "full_name": "Marcus Rashford",
+    "shirt_number": 14,
+    "market_value": "60 M€",
+    "birth_date": "31/10/1997",
+    "position": "delantero"
+  },
+  {
+    "id": 32,
+    "full_name": "Roony Bardghji",
+    "shirt_number": 19,
+    "market_value": "20 M€",
+    "birth_date": "15/11/2005",
+    "position": "delantero"
+  },
+  {
+    "id": 33,
+    "full_name": "Toni Fernández",
+    "shirt_number": 29,
+    "market_value": "5 M€",
+    "birth_date": "15/07/2008",
+    "position": "delantero"
+  },
+  {
+    "id": 34,
+    "full_name": "Dani Rodriguez",
+    "shirt_number": 37,
+    "market_value": "1 M€",
+    "birth_date": "09/08/2005",
+    "position": "delantero"
+  }
+]
